@@ -101,7 +101,7 @@ To use docker use the following command:
 
 # Balena-Cloud
 
-[![Balena Deploy Button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/blueedgetechno/win11React)
+[![Balena Deploy Button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/adiistres/windows-11-react)
 
 ---
 
@@ -109,7 +109,7 @@ To use docker use the following command:
 
 You can find a compiled `.exe` in the **Releases** section or via clicking [HERE](https://github.com/blueedgetechno/win11React/releases)
 
-**WINGET - WINDOWS PACKAGE MANAGER**
+**WINGET - WINDOWS PACKAGE 
 If you have one of the latest windows builds then you can enter the command below in **CMD**
 
 `winget install blueedge.win11react`
